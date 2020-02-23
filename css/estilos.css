@@ -1,0 +1,27 @@
+body{
+	font-family: Arial;
+	background-color: #C8CCF8; }
+
+#fondoh{
+	background-image: url(../img/banner01.jpg);
+	background-repeat: no-repeat;
+ 	background-size: cover; }
+
+#fondom{
+	background: #E4D7D8; }
+
+#image-gallery .modal-footer{
+  display: block; }
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px; }
+
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-1 {
+        float: left;
+        width: 10%;
+        max-width: 100%; } }
+
+.carousel-multi-item-2 .card img {
+    border-radius: 2px; }
